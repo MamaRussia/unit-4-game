@@ -1,0 +1,18 @@
+
+
+
+.gold-img, .baby-img, .silver-img, .diamond-img {
+  width: 250px;
+  height: 250px;
+
+}
+
+.row {
+
+  margin-left: 225px;
+}
+
+.button {
+
+  text-align: center;
+}
